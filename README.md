@@ -1,5 +1,6 @@
 # Nigeria-Crime-Statistics-2017-Dashboard| Power BI
-The project was aimed at creating an interactive visualization that can be understood at first glance using Power BI. In order to achieve this, the data was cleaned, connections were made among tables and interactive visualizations using charts was done.
+The project aims at creating an interactive visualization of the crime data recorded accross all the states in Nigeria in the year 2017 using Power BI. In order to achieve this, the data was cleaned, connections were made among relating tables and interactive visualizations using charts was done.
+Data Source: https://www.kaggle.com/datasets/ambolatunji/nigeria-2017-crime-data
 
 Some of the data-cleaning measures taken include but are not limited to the following;
 •Text formatting
